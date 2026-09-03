@@ -1,3 +1,4 @@
+
 # Smart Home Automation
 Imagine you're building a smart home automation system where various devices (lights, thermostat, music player, etc.) can be controlled remotely using a central hub or app. Each device has different functionalities, but you want to create a unified and flexible control mechanism.
 
@@ -11,3 +12,4 @@ Design a system that allows you to control multiple smart home devices with ease
 Your challenge is to apply a design pattern that provides a flexible and scalable way to control a variety of smart home devices, ensuring that new devices can be added without disrupting the existing system's functionality.
 
 ## Class Diagram
+<img width="2048" height="1286" alt="Class Diagram" src="https://github.com/user-attachments/assets/c7776c2c-46d1-4d9b-accf-53d06e71dcc6" />
